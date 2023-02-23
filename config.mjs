@@ -90,7 +90,7 @@ export const TARGET_SITES = [
   "https://smartstore.naver.com/visentium",
 ];
 
-export const FILE_PATH = '/Users/duckyounglee/Downloads/업체리스트.xlsx';
+export const FILE_PATH = '/Users/duckyounglee/Downloads/업체가격.xlsx';
 export const PAGE_MAX = 20;
 
 export const HEADER_ROW = [
