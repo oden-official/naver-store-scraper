@@ -1,0 +1,19 @@
+{
+  "name": "naver-store-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "all": "node service/all.mjs",
+    "search": "node service/search.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^19.7.2",
+    "readline-sync": "^1.4.10",
+    "write-excel-file": "^1.4.22"
+  }
+}
